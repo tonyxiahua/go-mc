@@ -40,6 +40,8 @@ Some examples are at `/cmd` folder.
 
 ## Getting start
 After you install golang:  
+If you are in Windows OS. You need to enable this:
+`go env -w GO111MODULE=on`
 To get latest version: `go get github.com/Tnze/go-mc@master`  
 To get old versions (eg. 1.14.3): `go get github.com/Tnze/go-mc@v1.14.3`
 
